@@ -12,7 +12,7 @@ setup(
     description="A Python client for the CircuitNotion AI API",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/ntirushwajeanmarc/CircuitNotionAI",
+    url="https://github.com/ntirushwajeanmarc/CircuitNotion_Library",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
